@@ -19,7 +19,7 @@ This command commits the changes added to the staging area to the current git re
 
 ## Distributed Version Control
 ![diagram_source_file.jpg](diagram_source_file.jpg)
-This is a diagram showing how centralized version control works vs. how Distributed version control works.
+<br>This is a diagram showing how centralized version control works vs. how Distributed version control works.
 
 ### What is GitHub?
 GitHub leverages the version control tool known as Git in order to allow developers to
